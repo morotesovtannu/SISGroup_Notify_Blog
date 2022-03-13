@@ -1,0 +1,3 @@
+baseURL = 'https://sisgroupblog.vercel.app/'
+languageCode = 'ja-jp'
+title = 'SISGroup Blog&Notify'
